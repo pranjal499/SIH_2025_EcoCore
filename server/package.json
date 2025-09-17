@@ -1,0 +1,28 @@
+{
+  "name": "sih_2025_ecocore",
+  "version": "1.0.0",
+  "description": "A gamified mobile and web platform that makes environmental learning engaging and practical.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranjal499/SIH_2025_EcoCore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranjal499/SIH_2025_EcoCore/issues"
+  },
+  "homepage": "https://github.com/pranjal499/SIH_2025_EcoCore#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "groq-sdk": "^0.32.0",
+    "mongodb": "^6.19.0",
+    "mongoose": "^8.18.1"
+  }
+}
